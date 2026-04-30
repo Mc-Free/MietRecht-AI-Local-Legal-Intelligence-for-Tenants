@@ -1,6 +1,10 @@
 # MietRecht-AI: Local-Legal-Intelligence-for-Tenants
 
-Simplifying German Rental Agreements through Local LLMs
+# 🏠 MietRecht AI: Local Legal Intelligence for Tenants
+
+![App Screenshot](assets/demo.png)
+
+### *Simplifying German Rental Agreements through Local LLMs*
 
 MietRecht AI is an open-source LegalTech tool that breaks down dense German rental contracts into plain language (DE and EN). Built with Llama Index, Ollama, and Gradio, it provides a private, secure, and instant way to audit leases and understand German rental law (Mietrecht).
 
