@@ -1,4 +1,4 @@
-# MietRecht-AI-Local-Legal-Intelligence-for-Tenants
+# MietRecht-AI: Local-Legal-Intelligence-for-Tenants
 
 Simplifying German Rental Agreements through Local LLMs
 
