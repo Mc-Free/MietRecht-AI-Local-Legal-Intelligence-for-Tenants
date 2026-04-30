@@ -1,6 +1,6 @@
 # 🏠 MietRecht-AI: Local-Legal-Intelligence-for-Tenants
 
-![App Screenshot](assets/demo.png)
+![App Screenshot](assets/)
 
 ### *Simplifying German Rental Agreements through Local LLMs*
 
