@@ -1,6 +1,4 @@
-# MietRecht-AI: Local-Legal-Intelligence-for-Tenants
-
-# 🏠 MietRecht AI: Local Legal Intelligence for Tenants
+# 🏠 MietRecht-AI: Local-Legal-Intelligence-for-Tenants
 
 ![App Screenshot](assets/demo.png)
 
